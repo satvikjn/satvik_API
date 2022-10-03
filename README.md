@@ -7,6 +7,8 @@ Following methods were used to create the following React App -
 4. Styling was done using React Bootstrap v5.2
 5. A spinner is added in case of slow or delayed response from API fetching data.
 
+It tooked me a week to make this website due to some small miscellaneous errors, which tokked me a hell of time to figure out and correct them.
+
 Contact Deatils - 
 Satvik Jain
 satvikjain11@rediffmail.com
