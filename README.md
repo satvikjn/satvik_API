@@ -10,4 +10,3 @@ Following methods were used to create the following React App -
 Contact Deatils - 
 Satvik Jain
 satvikjain11@rediffmail.com
-9462894302
